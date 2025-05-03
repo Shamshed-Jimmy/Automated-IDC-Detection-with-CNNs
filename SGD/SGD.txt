@@ -1,0 +1,10 @@
+optimizer = optim.SGD(model.fc.parameters(), lr=0.01)
+
+test Loss: 0.3656 Acc: 0.8559
+Best val Acc: 0.824797
+
+
+
+0.01
+0.001
+0.0001
